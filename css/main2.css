@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+h1{
+    padding-top: 25px;
+}
+.main {
+    height: 93vh;
+    margin-top: 2vh;
+    background-color: rgb(81, 124, 243);
+}
+.container > *{
+    margin-left: 15px;
+}
+
+.container {
+    margin-top: 25px;
+    margin-left: 10%;
+    width: 80%;
+    background-color: white;
+
+}
+
+.form-row>* {
+    display: inline-block;
+}
+
+form>* {
+    margin-top: 20px;
+}
+
+
+input[type="text"] {
+    background-color: rgba(128, 128, 128, 0.178);
+}
+input[type="text"] {border:0;outline:0;}
+button{
+    margin-bottom: 50px;
+}
+
+p{
+    color: white;
+    margin-left: 120px;
+}
