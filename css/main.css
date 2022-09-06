@@ -1,0 +1,42 @@
+.row * {
+    border: 1px solid white;
+    text-align: center;
+}
+
+.color1{
+    background-color: cyan;
+}
+
+.color2{
+    background-color: green;
+}
+
+.color3{
+    background-color: blue;
+}
+
+.color4{
+    background-color: purple;
+}
+
+.color3{
+    background-color: blue;
+}
+
+.color3{
+    background-color: blue;
+}
+
+.new *{
+   
+}
+
+.tall{
+    height: 200px;
+    border: 1px solid black;
+}
+.small-sq > .row *, .small{
+    height: 100px;
+    border: 1px solid black;
+
+}
